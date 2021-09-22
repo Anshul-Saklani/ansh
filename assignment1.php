@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-<title>Title of new branch</title>
+<title>Title of document</title>
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 
 <body>
